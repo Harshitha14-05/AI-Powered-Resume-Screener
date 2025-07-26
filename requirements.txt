@@ -1,6 +1,0 @@
-streamlit
-python-docx
-PyPDF2
-sentence-transformers
-faiss-cpu
-scikit-learn
